@@ -13,6 +13,7 @@ Es wird verwendet:
 - AMS1117 Step-down Module
 - Micro SD Storage Module
 - sowie viele Kleinteile
+(für mehr Infos das Bild der Platine anschauen)
 
 Für das Gehäuse wurden 3mm MDF Platten mit einem Lasercutter graviert und zugeschnitten.
 
